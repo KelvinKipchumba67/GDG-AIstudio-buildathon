@@ -1,0 +1,7 @@
+{
+  "name": "KeHomes - Premier Kenyan Real Estate",
+  "description": "A modern property hunting platform tailored for the Kenyan market, featuring verified listings in Nairobi, Chuka, Juja, and more. Includes smart filtering and AI-powered neighborhood insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
